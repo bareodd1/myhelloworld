@@ -7,4 +7,5 @@ echo Local cow
 
 echo PC cow cleaned up, again
 echo Oct cow. First week. Second week. 
-echo Odd2 adds ... ODD2 ADDS and again and again. Now then. Try
+echo Odd2 adds ... 
+echo ... newline

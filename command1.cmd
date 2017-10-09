@@ -6,4 +6,4 @@ echo Cow bells again
 echo Local cow
 
 echo PC cow cleaned up, again
-echo Oct cow. First week
+echo Oct cow. First week. Second week 
